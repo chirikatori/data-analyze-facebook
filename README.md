@@ -49,6 +49,10 @@ Start to scrape data
 ~~~bash  
 python crawl.py
 ~~~
+Preprocess data: [Preprocess.ipynb](Preprocess.ipynb)
+
+Visualize data: [Analyzes.ipynb](Analyzes.ipynb)
+
 <a name="var"></a>
 ## Environment Variables  
 
