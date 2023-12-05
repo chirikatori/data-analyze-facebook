@@ -57,7 +57,8 @@ To run this project, you will need to add the following environment variables to
 FACEBOOK_PASSWORD` if you use credentials
 
 `FACEBOOK_COOKIES_FILE_PATH` if you use cookies
-`FACEBOOK_FANPAGE_ID`
+
+`FACEBOOK_FANPAGE_ID`: id of the page you scrape
 
 `RESUME_URL_SAVE_FILE`
 
