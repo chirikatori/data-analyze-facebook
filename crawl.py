@@ -49,6 +49,9 @@ try:
                                "sharers": "generator",
                                "comments": "generator"
                                },
+                      # unbind below if you want to use credential
+                      #credential=[os.getenv("FACEBOOK_USERNAME"), os.getenv("FACEBOOK_PASSWORD")]
+                      #then bind below
                       cookies=os.getenv("FACEBOOK_COOKIES_FILE_PATH"),
                       start_url=resume_url,
                       request_url_callback=handle_pagination_url,
