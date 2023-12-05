@@ -79,7 +79,7 @@ FACEBOOK_PASSWORD` if you use credentials
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
 
 ## Feedback  
 
